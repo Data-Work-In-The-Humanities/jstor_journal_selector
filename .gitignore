@@ -1,0 +1,12 @@
+*.DS_Store
+*.ipynb_checkpoints
+*.jsonl
+*.gexf
+
+/data/derived_datasets/
+/data/model_outputs/
+/data/original_journal_datasets/
+
+/figures
+/drafts
+*.pyc
