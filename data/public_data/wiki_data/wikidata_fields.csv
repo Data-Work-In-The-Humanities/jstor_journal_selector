@@ -1,0 +1,79 @@
+property_id,property_url,property_definition
+P31,https://www.wikidata.org/wiki/Property:P31,instance of
+P571,https://www.wikidata.org/wiki/Property:P571,inception
+P1813,https://www.wikidata.org/wiki/Property:P1813,short name
+P143,https://www.wikidata.org/wiki/Property:P143,imported from Wikimedia project
+P4656,https://www.wikidata.org/wiki/Property:P4656,Wikimedia import URL
+P1476,https://www.wikidata.org/wiki/Property:P1476,title
+P248,https://www.wikidata.org/wiki/Property:P248,stated in
+P236,https://www.wikidata.org/wiki/Property:P236,ISSN
+P101,https://www.wikidata.org/wiki/Property:P101,field of work
+P17,https://www.wikidata.org/wiki/Property:P17,country
+P921,https://www.wikidata.org/wiki/Property:P921,main subject
+P123,https://www.wikidata.org/wiki/Property:P123,publisher
+P495,https://www.wikidata.org/wiki/Property:P495,country of origin
+P854,https://www.wikidata.org/wiki/Property:P854,reference URL
+P407,https://www.wikidata.org/wiki/Property:P407,language of work or name
+P856,https://www.wikidata.org/wiki/Property:P856,official website
+P8875,https://www.wikidata.org/wiki/Property:P8875,indexed in bibliographic review
+P813,https://www.wikidata.org/wiki/Property:P813,retrieved
+P9901,https://www.wikidata.org/wiki/Property:P9901,issuing agent of work
+P2896,https://www.wikidata.org/wiki/Property:P2896,publication interval
+P1240,https://www.wikidata.org/wiki/Property:P1240,Danish Bibliometric Research Indicator level
+P585,https://www.wikidata.org/wiki/Property:P585,point in time
+P373,https://www.wikidata.org/wiki/Property:P373,Commons category
+P1810,https://www.wikidata.org/wiki/Property:P1810,subject named as
+P437,https://www.wikidata.org/wiki/Property:P437,distribution format
+P7363,https://www.wikidata.org/wiki/Property:P7363,ISSN-L
+P1160,https://www.wikidata.org/wiki/Property:P1160,ISO 4 abbreviation
+P214,https://www.wikidata.org/wiki/Property:P214,VIAF ID
+P227,https://www.wikidata.org/wiki/Property:P227,GND ID
+P7859,https://www.wikidata.org/wiki/Property:P7859,WorldCat Identities ID (superseded)
+P6981,https://www.wikidata.org/wiki/Property:P6981,ACNP journal ID
+P1159,https://www.wikidata.org/wiki/Property:P1159,CODEN
+P8375,https://www.wikidata.org/wiki/Property:P8375,Crossref journal ID
+P1250,https://www.wikidata.org/wiki/Property:P1250,Danish Bibliometric Research Indicator (BFI) SNO/CNO
+P1058,https://www.wikidata.org/wiki/Property:P1058,ERA Journal ID
+P2013,https://www.wikidata.org/wiki/Property:P2013,Facebook ID
+P646,https://www.wikidata.org/wiki/Property:P646,Freebase ID
+P577,https://www.wikidata.org/wiki/Property:P577,publication date
+P11514,https://www.wikidata.org/wiki/Property:P11514,Great Russian Encyclopedia portal ID
+P8903,https://www.wikidata.org/wiki/Property:P8903,HAL journal ID
+P1844,https://www.wikidata.org/wiki/Property:P1844,HathiTrust ID
+P1230,https://www.wikidata.org/wiki/Property:P1230,JSTOR journal ID
+P1277,https://www.wikidata.org/wiki/Property:P1277,JUFO ID
+P1144,https://www.wikidata.org/wiki/Property:P1144,Library of Congress Control Number (LCCN) (bibliographic)
+P4730,https://www.wikidata.org/wiki/Property:P4730,Mir@bel journal ID
+P5495,https://www.wikidata.org/wiki/Property:P5495,Mormon Literature and Creative Arts Database Works ID
+P1055,https://www.wikidata.org/wiki/Property:P1055,NLM Unique ID
+P1270,https://www.wikidata.org/wiki/Property:P1270,Norwegian Register journal ID
+P243,https://www.wikidata.org/wiki/Property:P243,OCLC control number
+P5396,https://www.wikidata.org/wiki/Property:P5396,Online Books Page publication ID
+P10283,https://www.wikidata.org/wiki/Property:P10283,OpenAlex ID
+P887,https://www.wikidata.org/wiki/Property:P887,based on heuristic
+P3181,https://www.wikidata.org/wiki/Property:P3181,OpenCitations bibliographic resource ID
+P8104,https://www.wikidata.org/wiki/Property:P8104,Paperity journal ID
+P7662,https://www.wikidata.org/wiki/Property:P7662,Scilit journal ID
+P1156,https://www.wikidata.org/wiki/Property:P1156,Scopus source ID
+P1025,https://www.wikidata.org/wiki/Property:P1025,SUDOC editions
+P2002,https://www.wikidata.org/wiki/Property:P2002,Twitter username
+P6552,https://www.wikidata.org/wiki/Property:P6552,Twitter numeric user ID
+P582,https://www.wikidata.org/wiki/Property:P582,end time
+P1534,https://www.wikidata.org/wiki/Property:P1534,end cause
+P2735,https://www.wikidata.org/wiki/Property:P2735,Unz Review journal ID
+P1042,https://www.wikidata.org/wiki/Property:P1042,ZDB ID
+P4327,https://www.wikidata.org/wiki/Property:P4327,BHL bibliography ID
+P1365,https://www.wikidata.org/wiki/Property:P1365,replaces
+P3452,https://www.wikidata.org/wiki/Property:P3452,inferred from
+P50,https://www.wikidata.org/wiki/Property:P50,author
+P1932,https://www.wikidata.org/wiki/Property:P1932,object named as
+P98,https://www.wikidata.org/wiki/Property:P98,editor
+P291,https://www.wikidata.org/wiki/Property:P291,place of publication
+P576,https://www.wikidata.org/wiki/Property:P576,"dissolved, abolished or demolished date"
+P996,https://www.wikidata.org/wiki/Property:P996,document file on Wikimedia Commons
+P1889,https://www.wikidata.org/wiki/Property:P1889,different from
+P518,https://www.wikidata.org/wiki/Property:P518,applies to part
+P580,https://www.wikidata.org/wiki/Property:P580,start time
+P3740,https://www.wikidata.org/wiki/Property:P3740,number of works
+P724,https://www.wikidata.org/wiki/Property:P724,Internet Archive ID
+P478,https://www.wikidata.org/wiki/Property:P478,volume

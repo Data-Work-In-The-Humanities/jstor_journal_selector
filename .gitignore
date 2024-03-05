@@ -3,9 +3,7 @@
 *.jsonl
 *.gexf
 
-/data/derived_datasets/
-/data/model_outputs/
-/data/original_journal_datasets/
+/data/private_data/
 
 /figures
 /drafts
